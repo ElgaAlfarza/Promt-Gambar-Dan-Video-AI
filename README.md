@@ -1,83 +1,59 @@
-# Remotion video
+# 🎬 Promt Gambar & Video AI - TikTok & Shorts Co-Pilot
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+Aplikasi dashboard AI cerdas untuk meriset fakta edukasi, menyusun naskah video pendek (TikTok, Instagram Reels, YouTube Shorts), dan menghasilkan **Prompt Gambar** (DALL-E 3 / Midjourney) serta **Motion Prompt Video** (FLOW / Kling / Luma / Sora / Runway) dengan aspek rasio 9:16 vertikal.
 
-Welcome to your Remotion project!
+---
 
-## Commands
+## 🌟 Fitur Utama
 
-**Install Dependencies**
+- **🧠 AI Script & Scene Planner (Google Gemini 3.5 Flash / Pro):**
+  - Riset fakta objektif & edukatif berbasis *ground truth*.
+  - Penyusunan naskah per scene otomatis (durasi, panduan intonasi suara, caption, dan sumber ilmu).
+  - **Dukungan Bahasa Daerah (60% Indonesia : 40% Bahasa Daerah):**
+    - **Suku Samawa** (Kamus Basa Samawa & Falsafah *Sabalong Samalewa*).
+    - **Suku Bugis** (Kamus Bugis Pesisir Sumbawa & Marwah *Siri' na Pacce* serta *Taro Ada Taro Gau*).
+    - **Suku Sasak** (Kamus Base Sasak & Nilai Luhur *Tindih* dan *Patuh Karya*).
+    - **Suku Mbojo** (Kearifan Bima-Dompu *Nggahi Rawi Pahu* & *Maja Labo Dahu*).
 
-```console
-npm i --loglevel=error
+- **🎨 Prompt Center (Image & Motion AI Ready):**
+  - Pemilihan gaya visual karakter lucu & menggemaskan (*Cute Claymation / Stop-Motion*, *3D Stylized Animation*, *Anime Watercolor*, *Cinematic Hyperrealistic*, *Dark Nusantara Folklore*).
+  - Format 9:16 vertikal ramah smartphone & anti-filter hak cipta studio pihak ketiga.
+  - Sekali klik salin (*Copy*) prompt per-scene atau seluruh prompt.
+  - Fitur **Download Semua Prompt (.TXT)** untuk langsung digunakan di AI Generator video pilihan Anda.
+
+---
+
+## 🚀 Panduan Memulai (Quick Start)
+
+### 1. Prasyarat
+- [Node.js](https://nodejs.org/) (versi 18 ke atas disarankan)
+
+### 2. Instalasi Dependencies
+```bash
+npm install
 ```
 
-**Start Preview**
+### 3. Konfigurasi API Key
+Salin file `.env.example` menjadi `.env`:
+```bash
+cp .env.example .env
+```
+Lalu buka file `.env` dan masukkan API Key Gemini Anda:
+```env
+GEMINI_API_KEY=masukkan_api_key_gemini_anda
+VITE_GEMINI_API_KEY=masukkan_api_key_gemini_anda
+VITE_GEMINI_MODEL=gemini-3.5-flash
+```
+*(Dapatkan API Key gratis di [Google AI Studio](https://aistudio.google.com/app/apikey))*.
 
-```console
+### 4. Menjalankan Aplikasi
+Cukup klik ganda file `JALANKAN_PROJECT.bat` atau jalankan via terminal:
+```bash
 npm run dev
 ```
+Buka browser di `http://localhost:3000`.
 
-**Render video**
+---
 
-```console
-npx remotion render
-```
-
-**Upgrade Remotion**
-
-```console
-npx remotion upgrade
-```
-
-## Captioning
-
-Replace the `sample-video.mp4` with your video file.
-Caption all the videos in you `public` by running the following command:
-
-```console
-node sub.mjs
-```
-
-Only caption a specific video:
-
-```console
-node sub.mjs <path-to-video-file>
-```
-
-Only caption a specific folder:
-
-```console
-node sub.mjs <path-to-folder>
-```
-
-## Configure Whisper.cpp
-
-Captioning will download Whisper.cpp and the 1.5GB big `medium.en` model. To configure which model is being used, you can configure the variables in `whisper-config.mjs`.
-
-### Non-English languages
-
-To support non-English languages, you need to change the `WHISPER_MODEL` variable in `whisper-config.mjs` to a model that does not have a `.en` sufix.
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://remotion.dev/discord).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+## 🔒 Keamanan & Privasi
+- File `.env` yang memuat kunci API dan file media besar lokal secara otomatis telah dilindungi melalui `.gitignore` sehingga tidak akan pernah terunggah ke repositori publik.

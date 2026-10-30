@@ -1,0 +1,273 @@
+{
+  "scenes": [
+    {
+      "id": 1,
+      "time": "00:00 - 00:10",
+      "stage": "Hook Pemantik",
+      "stageColor": "border-rose-500 text-rose-400 bg-rose-500/10",
+      "title": "Raksasa Ramah di Teluk Saleh",
+      "narration": "Kalingka mo! Di perairan Tano Samawa yang kaya akan pesona, ada raksasa laut sebesar bus sekolah yang nongkrong bareng nelayan setiap malam! Kenalan yuk sama Hiu Paus Teluk Saleh!",
+      "sumberIlmu": "Dokumen Sumber Bagian 1 & Poin Kunci 1: Teluk Saleh di Pulau Sumbawa, NTB, seluas 2.152 km2 menjadi habitat permanen dan hotspot hiu paus.",
+      "voiceGuide": "🎙️ Intonasi sangat antusias, riang, dan memancing rasa penasaran penonton seketika.",
+      "visual": "Di perairan tropis Teluk Saleh yang tenang dengan latar perahu jukung nelayan tradisional dan siluet bagan apung, sesosok hiu paus besar yang ramah tampak muncul di permukaan air yang jernih.",
+      "captionText": "Raksasa laut ramah di Teluk Saleh Sumbawa! 🌊🦈",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An authentic Indonesian coastal setting in Teluk Saleh, Sumbawa, featuring calm turquoise tropical waters and a traditional wooden bagan apung floating platform. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a super cute and adorable young Indonesian fisherman with warm engaging smile and bright expressive sparkling eyes, wearing traditional Indonesian tenun ikat shirt, looking in awe at a gentle colossal whale shark breaking the crystal-clear water surface. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow steady cinematic push-in at 0.3x speed, locked horizon] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute stylized young fisherman character with unique facial features points excitedly toward the water with a wide amazed smile] [Environment: Gentle sparkling ocean ripples and soft tropical lighting reflecting on water surface] [Voiceover: Same consistent Indonesian narrator voice (enthusiastic and upbeat): 'Kalingka mo! Di perairan Tano Samawa yang kaya akan pesona, ada raksasa laut sebesar bus sekolah yang nongkrong bareng nelayan setiap malam!'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Takjub & Antusias",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": true
+      },
+      "customVideoUrl": "/uploads/1793326891784_Fisherman_points_excitedly_at_water_40353500_1080p.mp4",
+      "videoUrl": "/uploads/1793326891784_Fisherman_points_excitedly_at_water_40353500_1080p.mp4",
+      "videoFileName": "Fisherman_points_excitedly_at_water_40353500_1080p.mp4",
+      "isAcc": true
+    },
+    {
+      "id": 2,
+      "time": "00:10 - 00:20",
+      "stage": "Eksplorasi Geografis",
+      "stageColor": "border-blue-500 text-blue-400 bg-blue-500/10",
+      "title": "Teluk Terbesar di NTB",
+      "narration": "Teluk Saleh di Pulau Sumbawa adalah teluk terbesar di Nusa Tenggara Barat dengan luas mencapai 2.152 kilometer persegi. Wilayah ini menjadi rumah yang sangat nyaman bagi para hiu paus.",
+      "sumberIlmu": "Dokumen Sumber Bagian 1: Teluk Saleh, terletak di Pulau Sumbawa, NTB, teluk terbesar di Provinsi NTB dengan luas sekitar 2.152 km2.",
+      "voiceGuide": "🎙️ Intonasi informatif, jelas, dan bernada decak kagum.",
+      "visual": "Peta miniatur 3D artistik Pulau Sumbawa dan Teluk Saleh yang dikelilingi perairan biru tua jernih, dengan detail Pulau Moyo dan Selat Alas di sekitarnya.",
+      "captionText": "Teluk terbesar di NTB seluas 2.152 km persegi! 🗺️",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An authentic Indonesian topographic map display crafted from colorful tactile clay, showing Sumbawa Island and the vast blue expanse of Teluk Saleh bay. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a cute young Indonesian explorer wearing a traditional woven headwear (destar) pointing at the clay map with an intrigued smile. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Gentle panning shot across the clay relief map] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute explorer character smiles warmly while pointing a tiny wooden stick at the Teluk Saleh clay formation] [Environment: Warm miniature studio lighting highlighting the rich tactile textures of sculpted clay] [Voiceover: Same consistent Indonesian narrator voice (informative and clear): 'Teluk Saleh di Pulau Sumbawa adalah teluk terbesar di Nusa Tenggara Barat dengan luas mencapai 2.152 kilometer persegi.'] [Motion: Smooth organic movement, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Kagum & Berwawasan",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": true
+      },
+      "customVideoUrl": "/uploads/1793326904487_Explorer_pointing_at_clay_map_5846562d_1080p.mp4",
+      "videoUrl": "/uploads/1793326904487_Explorer_pointing_at_clay_map_5846562d_1080p.mp4",
+      "videoFileName": "Explorer_pointing_at_clay_map_5846562d_1080p.mp4",
+      "isAcc": true
+    },
+    {
+      "id": 3,
+      "time": "00:20 - 00:30",
+      "stage": "Fakta Sains Unik",
+      "stageColor": "border-amber-500 text-amber-400 bg-amber-500/10",
+      "title": "Habitat Permanen & Hotspot",
+      "narration": "Berbeda dengan tempat lain yang hiu paus-nya datang bermusim-musim saja, di Teluk Saleh mereka menetap sebagai habitat permanen dan hotspot koloni yang luar biasa!",
+      "sumberIlmu": "Dokumen Sumber Bagian 1: Berbeda dengan lokasi kemunculan hiu paus di wilayah lain yang bersifat migratori musiman, kehadiran di Teluk Saleh merupakan habitat permanen sekaligus hotspot.",
+      "voiceGuide": "🎙️ Intonasi penuh penekanan fakta penting dan membanggakan.",
+      "visual": "Kumpulan hiu paus muda berukuran 4 hingga 8 meter berenang dengan damai di perairan jernih Teluk Saleh bersama terumbu karang yang indah di bawah laut.",
+      "captionText": "Bukan migrasi musiman, tapi habitat permanen! 🌊✨",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An underwater tropical paradise in Indonesia featuring several gentle juvenile whale sharks swimming gracefully through crystal-clear blue water alongside colorful coral reefs. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a cute young Indonesian female underwater diver in eco-friendly diving gear smiling joyfully with bright sparkling eyes. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Smooth underwater gliding shot tracking the whale sharks] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute diver character gently waves hand toward the swimming whale sharks with a joyful expression] [Environment: Soft sunlight rays filtering down through the turquoise underwater column, swaying aquatic plants] [Voiceover: Same consistent Indonesian narrator voice (excited and informative): 'Berbeda dengan tempat lain yang hiu paus-nya datang bermusim-musim saja, di Teluk Saleh mereka menetap sebagai habitat permanen!'] [Motion: Smooth organic swimming motion, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Terpesona & Gembira",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": true
+      },
+      "customVideoUrl": "/uploads/1793326915529_Diver_waving_at_whale_sharks_77c8b50b_1080p.mp4",
+      "videoUrl": "/uploads/1793326915529_Diver_waving_at_whale_sharks_77c8b50b_1080p.mp4",
+      "videoFileName": "Diver_waving_at_whale_sharks_77c8b50b_1080p.mp4",
+      "isAcc": true
+    },
+    {
+      "id": 4,
+      "time": "00:30 - 00:40",
+      "stage": "Fakta Ilmiah Biologi",
+      "stageColor": "border-emerald-500 text-emerald-400 bg-emerald-500/10",
+      "title": "Ikan Terbesar di Dunia",
+      "narration": "Fakta sains membuktikan bahwa hiu paus atau Rhincodon typus adalah ikan terbesar di dunia yang masih hidup! Panjang individu mudanya di Teluk Saleh berkisar 4 sampai 8 meter.",
+      "sumberIlmu": "Dokumen Sumber Bagian 2: Hiu paus (Rhincodon typus) adalah ikan terbesar di dunia yang masih hidup, panjang dewasa 4-8 meter (juvenil mendominasi wilayah ini).",
+      "voiceGuide": "🎙️ Intonasi tegas, meyakinkan, dan sarat edukasi ilmiah.",
+      "visual": "Perbandingan visual ukuran hiu paus mini claymation dengan perahu jukung tradisional nelayan Sumbawa untuk menunjukkan skala ukuran raksasa mereka.",
+      "captionText": "Ikan terbesar di dunia! Panjangnya 4-8 meter! 🐋",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An authentic Indonesian coastal scene comparing the massive scale of a clay-crafted juvenile whale shark next to a small traditional wooden outrigger boat. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, an adorable young Indonesian boy wearing traditional batik shirt pointing in sheer amazement with wide sparkling eyes and rosy cheeks. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow vertical tilt up from the small boat to the massive whale shark] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute boy character looks up with an awestruck expression, his jaw playfully dropping in wonder] [Environment: Bright tropical daylight illuminating the ocean surface and traditional wooden boat textures] [Voiceover: Same consistent Indonesian narrator voice (amazed and educational): 'Fakta sains membuktikan bahwa hiu paus adalah ikan terbesar di dunia yang masih hidup!'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Takjub & Terpesona",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": true
+      },
+      "customVideoUrl": "/uploads/1793326925473_Boy_looking_at_whale_shark_85e8caff_1080p.mp4",
+      "videoUrl": "/uploads/1793326925473_Boy_looking_at_whale_shark_85e8caff_1080p.mp4",
+      "videoFileName": "Boy_looking_at_whale_shark_85e8caff_1080p.mp4",
+      "isAcc": true
+    },
+    {
+      "id": 5,
+      "time": "00:40 - 00:50",
+      "stage": "Kearifan Lokal",
+      "stageColor": "border-purple-500 text-purple-400 bg-purple-500/10",
+      "title": "Simbiosis dengan Bagan Apung",
+      "narration": "Tabe'... Hubungan hiu paus di sini sangat erat dengan aktivitas bagan apung nelayan lokal. Mereka rutin mendekat untuk menyantap ikan teri kecil yang ada di sekitar jaring.",
+      "sumberIlmu": "Dokumen Sumber Bagian 1 & 2: Kehadiran hiu paus di Teluk Saleh sangat dipengaruhi oleh aktivitas nelayan lokal bagan apung, mendekati bagan memakan ikan teri kecil.",
+      "voiceGuide": "🎙️ Intonasi santun, hangat, dan menjelaskan interaksi unik.",
+      "visual": "Bagan apung tradisional di malam hari dengan lampu-lampu petromak kuning terang di atas air laut gelap, dikelilingi siluet hiu paus yang mendekat.",
+      "captionText": "Simbiosis unik nelayan bagan apung & hiu paus 🌙🐟",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. A night-time scene on an authentic Indonesian wooden bagan apung floating fishing platform on Teluk Saleh. Bright warm glowing fishing lamps cast golden reflections on the dark ocean surface where majestic clay-crafted whale sharks gather. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a cute smiling elderly Indonesian fisherman holding a lantern with a kind expression. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow tracking shot panning across the wooden bagan platform at night] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute elderly fisherman smiles kindly while looking down at the glowing water where whale sharks feed] [Environment: Warm glowing lantern light, gentle dark ocean ripples reflecting golden lights] [Voiceover: Same consistent Indonesian narrator voice (warm and respectful): 'Tabe'... Hubungan hiu paus di sini sangat erat dengan aktivitas bagan apung nelayan lokal.'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Hangat & Harmonis",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 6,
+      "time": "00:50 - 01:00",
+      "stage": "Mekanisme Sains",
+      "stageColor": "border-teal-500 text-teal-400 bg-teal-500/10",
+      "title": "Pesta Pora Ram Filtration",
+      "narration": "Bagaimana cara mereka makan? Dengan metode Ram Filtration dan Suction Feeding! Mereka membuka mulut lebar-lebar menyaring air dan menyantap mikro-ikan di bawah lampu bagan.",
+      "sumberIlmu": "Dokumen Sumber Bagian 3: Sistem Makan (Ram Filtration & Suction Feeding), hiu paus menyaring air melalui gill rakers, memanfaatkan pesta pora mikro-ikan di sekitar lampu bagan.",
+      "voiceGuide": "🎙️ Intonasi bersemangat menjelaskan mekanisme ilmiah yang keren.",
+      "visual": "Animasi 3D claymation close-up memperlihatkan hiu paus membuka mulutnya lebar-lebar menyaring air laut dan ikan-ikan teri kecil di dekat lampu bagan.",
+      "captionText": "Cara makan unik: Ram Filtration & Suction Feeding! 🦐",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An underwater close-up claymation shot of a juvenile whale shark gently opening its wide mouth to filter microscopic fish near glowing fishing net lights. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a cute young Indonesian marine biologist looking through a small wooden underwater viewing scope with wide curious eyes. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow cinematic push-in toward the whale shark's filtering gills] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute biologist character watches in awe with sparkling eyes, holding a tiny scientific notebook] [Environment: Warm glowing golden light rays underwater mixing with rich blue tones] [Voiceover: Same consistent Indonesian narrator voice (dynamic and scientific): 'Bagaimana cara mereka makan? Dengan metode Ram Filtration dan Suction Feeding!'] [Motion: Smooth organic motion, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Kagum & Penasaran",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 7,
+      "time": "01:00 - 01:10",
+      "stage": "Oseanografi Teluk",
+      "stageColor": "border-cyan-500 text-cyan-400 bg-cyan-500/10",
+      "title": "Sirkulasi Arus & Nutrien",
+      "narration": "Secara oseanografi, Teluk Saleh dikelilingi Pulau Moyo dan Selat Alas. Perairan semi-tertutup ini kaya nutrien dari daratan, menciptakan produktivitas primer yang sangat tinggi!",
+      "sumberIlmu": "Dokumen Sumber Bagian 2: Kondisi Oseanografi, Teluk Saleh dikelilingi Pulau Moyo dan Selat Alas, perairan semi-tertutup dengan suplai nutrien tinggi dari limpasan daratan.",
+      "voiceGuide": "🎙️ Intonasi profesional, jelas, dan edukatif.",
+      "visual": "Diagram visual claymation arus laut berputar di antara Pulau Moyo, Teluk Saleh, dan Selat Alas yang membawa kesuburan plankton berlimpah.",
+      "captionText": "Kaya nutrien berkat sirkulasi arus Teluk Saleh! 🌊",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An artistic 3D clay-relief oceanographic map showing Teluk Saleh, Moyo Island, and Alas Strait with swirling clay currents and rich green-blue nutrient streams. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, an adorable wise elderly Indonesian scientist with gentle smiling eyes wearing traditional batik attire pointing at nutrient currents. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Smooth panning shot across the clay oceanographic model] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute elderly scientist character nods wisely with a gentle warm smile, gesturing gracefully] [Environment: Warm miniature studio lighting highlighting textured clay currents and islands] [Voiceover: Same consistent Indonesian narrator voice (professional and educational): 'Secara oseanografi, Teluk Saleh dikelilingi Pulau Moyo dan Selat Alas. Perairan semi-tertutup ini kaya nutrien!'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Puas & Berpengetahuan",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 8,
+      "time": "01:10 - 01:20",
+      "stage": "Membongkar Mitos 1",
+      "stageColor": "border-orange-500 text-orange-400 bg-orange-500/10",
+      "title": "Mitos vs Fakta: Apakah Berbahaya?",
+      "narration": "Banyak yang mengira hiu paus ini mamalia berbahaya karena sebesar bus sekolah! Padahal itu mitos! Mereka ikan bertulang rawan yang sangat jinak dan tenggorokannya sekecil bola tenis!",
+      "sumberIlmu": "Dokumen Sumber Bagian 4 (Mitos 1): Mitos hiu paus mamalia berbahaya. Kenyataan: ikan bertulang rawan, filter feeder, tidak bergigi tajam, tenggorokan seukuran bola tenis.",
+      "voiceGuide": "🎙️ Intonasi meluruskan kesalahpahaman dengan gaya santai dan meyakinkan.",
+      "visual": "Ilustrasi perbandingan tenggorokan hiu paus yang disandingkan dengan bola tenis kecil yang digenggam oleh karakter claymation lucu yang tersenyum lega.",
+      "captionText": "Bukan mamalia berbahaya! Tenggorokan sekecil bola tenis! 🎾",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An imaginative educational comparison scene featuring a friendly clay-crafted whale shark smiling next to a cute young Indonesian girl holding a small tennis ball to demonstrate throat size. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, adorable girl with sparkling eyes and cute rosy cheeks wearing traditional kebaya. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow steady push-in framing the girl and the tennis ball] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute girl character holds up a tiny tennis ball with a reassuring, friendly smile, shaking her head playfully at the myth] [Environment: Warm bright indoor studio lighting with charming handmade clay textures] [Voiceover: Same consistent Indonesian narrator voice (reassuring and cheerful): 'Banyak yang mengira hiu paus ini mamalia berbahaya! Padahal itu mitos! Tenggorokannya sekecil bola tenis!'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Lega & Ceria",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 9,
+      "time": "01:20 - 01:30",
+      "stage": "Membongkar Mitos 2",
+      "stageColor": "border-yellow-500 text-yellow-400 bg-yellow-500/10",
+      "title": "Hewan Peliharaan Nelayan?",
+      "narration": "Ada juga yang mengira hiu paus di sini dipelihara dan diberi makan nelayan setiap hari. Padahal salah besar! Mereka datang secara liar karena insting makan alami, bukan piaraan.",
+      "sumberIlmu": "Dokumen Sumber Bagian 4 (Mitos 2): Mitos hiu paus dipelihara nelayan. Kenyataan: perilaku oportunistik alami, datang karena kelimpahan teri, dianggap membawa berkah.",
+      "voiceGuide": "🎙️ Intonasi menyangkal mitos dengan nada santai namun tegas.",
+      "visual": "Karakter nelayan lokal tersenyum ramah sambil melambaikan tangan ke arah hiu paus liar yang berenang bebas di dekat perahu mereka.",
+      "captionText": "Bukan hewan peliharaan, mereka datang secara liar! 🌊",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An authentic Indonesian coastal scene with a friendly clay-crafted fisherman smiling and waving to a wild whale shark swimming freely in the sea. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a cute Indonesian fisherman with a warm welcoming smile and joyful sparkling eyes, wearing traditional woven clothing. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Gentle panning shot from the fisherman to the swimming whale shark] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute fisherman character waves his hand warmly with a friendly, genuine smile] [Environment: Warm golden morning sunlight reflecting on ocean waves and traditional wooden boat] [Voiceover: Same consistent Indonesian narrator voice (informative and clarifying): 'Ada juga yang mengira hiu paus di sini dipelihara nelayan. Padahal salah besar! Mereka datang secara liar karena insting!'] [Motion: Smooth organic movement, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Ramah & Terbuka",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 10,
+      "time": "01:30 - 01:40",
+      "stage": "Membongkar Mitos 3",
+      "stageColor": "border-red-500 text-red-400 bg-red-500/10",
+      "title": "Bolehkah Menyentuh Hiu Paus?",
+      "narration": "Awas! Jangan pernah menyentuh atau menunggangi hiu paus ya! Kulit mereka punya lapisan lendir pelindung dari parasit. Menyentuhnya bisa merusak pertahanan alami tubuh mereka.",
+      "sumberIlmu": "Dokumen Sumber Bagian 4 (Mitos 3): Mitos menyentuh hiu paus aman. Kenyataan: merusak lapisan mukus (lendir) pelindung dari parasit dan infeksi, melanggar code of conduct.",
+      "voiceGuide": "🎙️ Intonasi memperingatkan dengan tegas namun tetap ramah dan edukatif.",
+      "visual": "Karakter penjaga konservasi laut yang mengacungkan jari telunjuk tanda peringatan dengan latar rambu perlindungan hiu paus di perairan Teluk Saleh.",
+      "captionText": "Jangan disentuh! Lindungi lapisan lendir pelindung mereka! 🛑",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. An educational coastal conservation scene in Indonesia featuring a friendly clay-crafted marine ranger holding a gentle stop sign gesture with a serious yet kind facial expression. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, cute ranger character with expressive eyes wearing conservation uniform and traditional woven scarf. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Medium shot with steady slow push-in] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute ranger character raises a hand in a polite stopping gesture with a caring, protective expression] [Environment: Warm tropical sunlight filtering through coastal trees, soft ocean background] [Voiceover: Same consistent Indonesian narrator voice (caring and cautionary): 'Awas! Jangan pernah menyentuh atau menunggangi hiu paus ya! Kulit mereka punya lapisan lendir pelindung!'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Peduli & Tegas",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 11,
+      "time": "01:40 - 01:50",
+      "stage": "Evolusi Konservasi",
+      "stageColor": "border-indigo-500 text-indigo-400 bg-indigo-500/10",
+      "title": "Status Perlindungan Hukum",
+      "narration": "Tahukah kamu? Sejak tahun 2013, hiu paus resmi dilindungi penuh oleh Keputusan Menteri Kelautan dan Perikanan Nomor 18 Tahun 2013, didukung riset WWF dan BRIN.",
+      "sumberIlmu": "Dokumen Sumber Bagian 3 & Poin Kunci: Status konservasi IUCN Endangered, dilindungi penuh via Kepmen KP No 18/2013, didukung riset WWF dan LIPI/BRIN.",
+      "voiceGuide": "🎙️ Intonasi resmi, berbobot, dan mengedukasi hukum konservasi.",
+      "visual": "Dokumen hukum resmi Kepmen KP dengan lambang negara Indonesia, didampingi simbol riset kolaborasi WWF-Indonesia dan BRIN yang digambarkan secara artistik.",
+      "captionText": "Resmi dilindungi penuh sejak 2013! 📜🌊",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. A miniature clay-crafted scientific workstation in Indonesia featuring legal conservation documents, a tiny globe, and a research notebook. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, a cute young Indonesian researcher wearing traditional batik shirt holding a magnifying glass with an enthusiastic smart expression. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow smooth pan across the miniature scientific workstation] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute researcher character smiles proudly while nodding, holding up a tiny document scroll] [Environment: Warm indoor study lighting reflecting on textured clay props] [Voiceover: Same consistent Indonesian narrator voice (authoritative and proud): 'Tahukah kamu? Sejak tahun 2013, hiu paus resmi dilindungi penuh oleh Keputusan Menteri Kelautan dan Perikanan!'] [Motion: Smooth organic movement, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Bangga & Edukatif",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    },
+    {
+      "id": 12,
+      "time": "01:50 - 02:00",
+      "stage": "Climax & Closing",
+      "stageColor": "border-rose-500 text-rose-400 bg-rose-500/10",
+      "title": "Jaga Alam, Lindungi Raksasa Laut",
+      "narration": "Mari kita jaga bersama kelestarian alam nusantara ini! Kalau berkunjung ke Teluk Saleh, nikmati keindahannya dari kejauhan. Jaga alam, lindungi raksasa laut kita!",
+      "sumberIlmu": "Dokumen Sumber Bagian 5 (Closing Edukatif): Tegaskan status konservasi terancam punah, nikmati keindahan dari kejauhan, jaga alam lindungi raksasa laut.",
+      "voiceGuide": "🎙️ Intonasi inspiratif, menyentuh hati, dan penuh ajakan positif.",
+      "visual": "Pemandangan matahari terbenam yang megah di Teluk Saleh Sumbawa, dengan siluet hiu paus dan karakter anak-anak Indonesia tersenyum melambaikan tangan bersama.",
+      "captionText": "Jaga alam, lindungi raksasa laut kita! 🌊✨🇮🇩",
+      "imagePrompt": "Adorable Claymation (Stop-Motion) scene, vertical 9:16 portrait format. A breathtaking golden sunset over the tranquil waters of Teluk Saleh, Sumbawa. A gentle clay-crafted whale shark breaches the water softly while two cute Indonesian children wave happily from a traditional wooden boat. A 100% original bespoke character design, completely unique never-before-seen original concept, one-of-a-kind distinct facial features, proprietary character IP, adorable children with bright sparkling eyes and glowing rosy cheeks wearing traditional Indonesian attire. 100% original bespoke clay animation, completely unique never-before-seen handcrafted clay figurine character, one-of-a-kind distinct facial features, proprietary original character design, extremely cute and endearing, chubby rosy cheeks, expressive cute button eyes, tiny sculpted nose, tactile plasticine texture with soft subtle finger-sculpting marks, warm miniature studio lighting, shallow depth of field, charming stop-motion movie aesthetic, vertical 9:16 smartphone format --ar 9:16, 4K.",
+      "motionPrompt": "[Camera: Slow cinematic pull-back revealing the gorgeous sunset landscape] [Framing: Strict vertical 9:16 portrait ratio, smartphone screen orientation] [Subject: Original cute children characters wave joyfully with warm heartwarming smiles as the whale shark splashes gently] [Environment: Spectacular warm golden hour sunset lighting, shimmering ocean reflections] [Voiceover: Same consistent Indonesian narrator voice (inspiring and heartwarming): 'Mari kita jaga bersama kelestarian alam nusantara ini! Jaga alam, lindungi raksasa laut kita!'] [Motion: Smooth organic animation, zero morphing, high stability, vertical 9:16, 60fps]",
+      "emotion": "Inspiratif & Menyentuh",
+      "duration": 10,
+      "status": {
+        "image": true,
+        "flow": true,
+        "inspected": false
+      }
+    }
+  ],
+  "topic": "Teluk Saleh & Hiu Paus"
+}

@@ -1,8 +1,39 @@
+# Dependencies
 node_modules
-dist
-.DS_Store
-.env
+.pnp
+.pnp.js
 
-# Ignore the output video from Git but not videos you import into src/.
+# Production build outputs
+dist
+dist-ssr
+*.local
+
+# Environment & Secret files (SANGAT PENTING: JANGAN DIHAPUS DARI SINI)
+.env
+.env.*
+!.env.example
+
+# Logs & Temporary debug files
+dev.log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Remotion & Video output
 out
 whisper.cpp
+
+# Scratch & Dev artifacts
+scratch/
+
+# User uploads & large generated media (Mencegah repo GitHub bengkak ratusan MB)
+public/uploads/*
+!public/uploads/.gitkeep
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

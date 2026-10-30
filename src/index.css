@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  color-scheme: dark;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f131c;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #232938;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #333d52;
+}
+
+/* Glow effects */
+.glow-cyan {
+  box-shadow: 0 0 25px -5px rgba(37, 244, 238, 0.35);
+}
+
+.glow-red {
+  box-shadow: 0 0 25px -5px rgba(254, 44, 85, 0.4);
+}
+
+.tiktok-gradient {
+  background: linear-gradient(135deg, #FE2C55 0%, #ff5277 50%, #25F4EE 100%);
+}
+
+.tiktok-text-gradient {
+  background: linear-gradient(135deg, #FE2C55 0%, #ff718f 40%, #25F4EE 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Glassmorphism panel */
+.glass-panel {
+  background: rgba(18, 22, 33, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+  background: rgba(22, 27, 40, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* TikTok Safety Zone Overlay */
+.tiktok-overlay-grid {
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* CapCut Kinetic Typography Styles */
+.capcut-font {
+  font-family: 'Montserrat', 'Impact', 'Arial Black', -apple-system, sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.01em;
+}
+
+.capcut-stroke {
+  -webkit-text-stroke: 1.5px #000000;
+  paint-order: stroke fill;
+}
+
+.capcut-stroke-thick {
+  -webkit-text-stroke: 2.2px #000000;
+  paint-order: stroke fill;
+}
+
+.capcut-shadow {
+  text-shadow: 
+    0 3px 0 #000000,
+    0 5px 12px rgba(0, 0, 0, 0.9),
+    0 1px 3px rgba(0, 0, 0, 0.95);
+}
+
+.capcut-glow-green {
+  text-shadow:
+    0 0 15px rgba(0, 255, 102, 0.7),
+    0 3px 0 #000000,
+    0 5px 12px rgba(0, 0, 0, 0.9);
+}
+
+.capcut-glow-yellow {
+  text-shadow:
+    0 0 15px rgba(255, 230, 0, 0.7),
+    0 3px 0 #000000,
+    0 5px 12px rgba(0, 0, 0, 0.9);
+}
+
+.capcut-glow-cyan {
+  text-shadow:
+    0 0 15px rgba(37, 244, 238, 0.7),
+    0 3px 0 #000000,
+    0 5px 12px rgba(0, 0, 0, 0.9);
+}
+
+@keyframes capcut-pop {
+  0% { transform: scale(0.92); opacity: 0.9; }
+  50% { transform: scale(1.04); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.animate-capcut-pop {
+  animation: capcut-pop 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
